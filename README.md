@@ -17,4 +17,4 @@ I'm a dedicated software developer with a passion for creating engaging user int
 - Constantly exploring new project ideas in **AI**, **Web3**, and **full-stack development**.
 
 ### ⚡ Random Dev Quote
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Code is like humor. When you have to explain it, it’s bad." Corry House
