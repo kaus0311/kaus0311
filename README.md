@@ -1,27 +1,16 @@
-Hi there 👋
-I'm Kaustubh Negi
-💁 About me :
-I enjoy creating software with a great user interface and ensuring an exceptional user experience.
-I’m currently working on developing a programming language.
-I also spend my time learning about Machine Learning and Generative AI.
-Reach me on kausinusa.com.
-🔬 Work :
-No.	Description	Status
-1.	Software Engineer @ GEP Worldwide	Jun 2022 - Aug 2024
-2.	Junior Software Developer Intern @ DQUIP	Aug 2021 - Jun 2022
-⚡ Random Dev Quote :
-"An apple a day keeps microsoft users away"
-<!--
-**kaus0311/kaus0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm Kaustubh Negi
+💁 About Me
+I'm a dedicated software developer with a keen eye for crafting engaging user interfaces and delivering exceptional user experiences. Currently, I’m working on creating my own programming language, diving deep into the world of language design. Alongside this, I'm expanding my knowledge in Machine Learning and Generative AI to stay at the forefront of technology.
 
-Here are some ideas to get you started:
+🌐 Website: kausinusa.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Work Experience
+Role	Organization	Duration
+Software Engineer	GEP Worldwide	Jun 2022 - Aug 2024
+Junior Software Developer Intern	DQUIP	Aug 2021 - Jun 2022
+IT Specialist	Unitrade Remedies Ltd.	May 2020 - Jul 2021
+🚀 Projects
+Investment Portfolio Management System: Developed a web-based platform for managing investment portfolios with real-time data visualization using React.js and .NET Core.
+Pet Store Website: Built a full-featured e-commerce website using React and .NET Core, allowing users to browse and purchase pet products.
+⚡ Dev Quote
+"Code is like humor. When you have to explain it, it’s bad." - Corry House
